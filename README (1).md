@@ -80,12 +80,12 @@ To deploy this project run
 ```
 
 
-## Demo
-DATASET
+## DATASET
+
 
 https://finance.yahoo.com/
 
-Sehments of data extracted from above link used in this project.
+Segments of data extracted from above link used in this project. FRom this static csv dataset with the help of python programming ausing loop and sleep random continuous events were generated . That event stream from local sytem goes to kafka in AWS instance.
 
 
 
